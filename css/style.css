@@ -7,7 +7,7 @@
 .main{
     height: 960px;
     width: 100%;
-    background: url(img/bgheader.jpg);
+    background-image: url("../img/bgheader.jpg");
     display: flex;
     flex-direction: column;
     justify-content: center;
